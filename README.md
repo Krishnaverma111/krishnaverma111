@@ -55,10 +55,11 @@
   <a href="https://twitter.com/your-twitter" target="blank">
     <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter" />
   </a>
-  <a href="https://portfolio.com" target="blank">
-    <img src="https://portfolio-ijzi.vercel.app/" />
+  <a href="https://portfolio-ijzi.vercel.app/" target="blank">
+    <img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel" />
   </a>
 </p>
+
 
 
 
