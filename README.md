@@ -60,21 +60,6 @@
   </a>
 </p>
 
----
 
-### ⭐ GitHub Profile README Generator
 
-<p align="center">
-  <a href="https://github.com/rahuldkjain/github-profile-readme-generator">
-    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/raw/master/src/images/logo.png" alt="GitHub Profile README Generator Logo" width="200"/>
-  </a>
-</p>
 
-<p align="center">
-  <a href="https://github.com/rahuldkjain/github-profile-readme-generator/stargazers">
-    <img src="https://img.shields.io/github/stars/rahuldkjain/github-profile-readme-generator?style=social" alt="Stars"/>
-  </a>
-  <a href="https://github.com/rahuldkjain/github-profile-readme-generator/fork">
-    <img src="https://img.shields.io/github/forks/rahuldkjain/github-profile-readme-generator?style=social" alt="Forks"/>
-  </a>
-</p>
