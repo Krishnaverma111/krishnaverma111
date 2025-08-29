@@ -56,7 +56,7 @@
     <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter" />
   </a>
   <a href="https://portfolio.com" target="blank">
-    <img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel" />
+    <img src="https://portfolio-ijzi.vercel.app/" />
   </a>
 </p>
 
